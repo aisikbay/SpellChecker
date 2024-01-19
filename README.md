@@ -5,8 +5,8 @@ Problem: Create a spell checker and word suggestion program using hashing. "Dict
 "true", and continue as normal, returning words starting with the same first two letters.
 * **Case 3:** If the input word does not exist in the dictionary and has no resemblance with an existing word, the program should return "false"<br>
 
-The execution time of each case should be displayed.
-
+The execution time of each case should be displayed.\
+See it run: https://youtu.be/kBcSwrIG3FE
 ## Example
 <img src="https://github.com/aisikbay/SpellChecker/assets/94331548/58b187a8-ae95-458f-9b44-a93f8e3c765f"></img>
 
